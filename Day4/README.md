@@ -2,10 +2,7 @@
 
 Today I explored a real-world machine learning task — **credit card fraud detection** — and evaluated the model using two powerful techniques: **ROC Curve** and **Precision-Recall Curve**. These curves give insights into model performance especially when **fraud cases are rare** (imbalanced data).
 
-![Fraud vs Genuine](images/fraud_distribution.png)
-![ROC vs PR](images/roc_pr_curve.png)
 
----
 
 ## 🎯 Problem Overview
 
